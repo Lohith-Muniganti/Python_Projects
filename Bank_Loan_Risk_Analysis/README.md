@@ -1,3 +1,6 @@
+
+In Progress.......
+
 Objectives:
 
 This case study aims to identify patterns which indicate if a client has difficulty paying their
